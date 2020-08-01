@@ -1,0 +1,3 @@
+app.snapchat.com
+us-east1-aws.api.snapchat.com
+gcp.api.snapchat.com
