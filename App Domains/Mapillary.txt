@@ -10,3 +10,5 @@ a.tile.openstreetmap.org
 www.gstatic.com
 config.mapbox.com
 settings.crashlytics.com
+images.mapillary.com
+10.5.5.9
