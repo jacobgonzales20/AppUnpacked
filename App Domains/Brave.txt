@@ -1,0 +1,4 @@
+ads-serve.brave.com
+grant.rewards.brave.com
+laptop-updates.brave.com
+adblock-data.s3.brave.com
