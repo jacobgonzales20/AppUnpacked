@@ -8,3 +8,11 @@ How it works: <br />
 2 - Ads <br />
 3 - Uses Open Source Analytics <br />
 4 - No Analytics, Trackers, or Ads <br />
+
+FAQ: <br />
+
+How do I request a app? <br />
+- Simply open a issue on this GitHub page <br />
+
+How do I submit data to be added? <br />
+- Simply open a issue with the apps name exact spelling and list all the domains it communicates with <br />
