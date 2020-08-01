@@ -1,0 +1,12 @@
+cdn2.inner-active.mobi
+firebaselogging-pa.googleapis.com
+settings.crashlytics.com
+splash-screen.voodoo-ads.io
+app.adjust.com
+0.0.0.0
+app-measurement.com
+addelivery-engine-api.voodoo-ads.io
+track.tenjin.io
+graph.facebook.com
+firebaseinstallations.googleapis.com
+service.cmp.oath.com
