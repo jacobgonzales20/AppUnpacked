@@ -1,0 +1,3 @@
+api.ivpn.net
+ivpn.net
+198.50.177.220

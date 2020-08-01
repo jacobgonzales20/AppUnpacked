@@ -1,0 +1,6 @@
+172.67.207.74
+identity.bitwarden.com
+104.27.183.77
+api.pwnedpasswords.com
+api.bitwarden.com
+in.appcenter.ms
