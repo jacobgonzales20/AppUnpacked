@@ -14,5 +14,5 @@ FAQ: <br />
 How do I request a app? <br />
 - Simply open a issue on this GitHub page <br />
 
-How do I submit data to be added? <br />
+How do I contribute apps to be added? <br />
 - Simply open a issue on this GitHub page with the apps name, exact spelling and list all the domains it communicates with <br />
